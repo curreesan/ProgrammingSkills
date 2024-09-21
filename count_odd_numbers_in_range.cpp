@@ -27,7 +27,7 @@ int main()
 }
 
 /*
-Brute Force
+Brute Force - O(n)
 class Solution
 {
 public:
